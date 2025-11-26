@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVVHasini/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
