@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SVVHasini/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SVVHasini/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SVVHasini/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
