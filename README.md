@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SVVHasini/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SVVHasini/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SVVHasini/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SVVHasini/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/SVVHasini/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SVVHasini/Leetcode/tree/master/0052-n-queens-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SVVHasini/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
