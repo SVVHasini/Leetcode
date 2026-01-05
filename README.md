@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0994-rotting-oranges](https://github.com/SVVHasini/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SVVHasini/Leetcode/tree/master/0069-sqrtx) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Geometry
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
