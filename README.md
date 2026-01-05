@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SVVHasini/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SVVHasini/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SVVHasini/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SVVHasini/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SVVHasini/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SVVHasini/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SVVHasini/Leetcode/tree/master/0069-sqrtx) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SVVHasini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SVVHasini/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/SVVHasini/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SVVHasini/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SVVHasini/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
