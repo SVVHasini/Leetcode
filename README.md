@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SVVHasini/Leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
