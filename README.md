@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/SVVHasini/Leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SVVHasini/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SVVHasini/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVVHasini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 ## Matrix
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SVVHasini/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/SVVHasini/Leetcode/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
