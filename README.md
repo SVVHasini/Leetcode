@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SVVHasini/Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/SVVHasini/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/SVVHasini/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/SVVHasini/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SVVHasini/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVVHasini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
