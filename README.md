@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SVVHasini/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SVVHasini/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SVVHasini/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SVVHasini/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -337,5 +340,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
