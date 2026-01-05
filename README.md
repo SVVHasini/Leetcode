@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Math
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
