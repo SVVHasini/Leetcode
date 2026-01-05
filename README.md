@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SVVHasini/Leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SVVHasini/Leetcode/tree/master/0338-counting-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/SVVHasini/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SVVHasini/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SVVHasini/Leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Memoization
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SVVHasini/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SVVHasini/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 ## Recursion
 |  |
 | ------- |
@@ -481,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
+## Bitmask
+|  |
+| ------- |
+| [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
 <!---LeetCode Topics End-->
