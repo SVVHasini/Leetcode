@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVVHasini/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
