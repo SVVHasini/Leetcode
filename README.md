@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SVVHasini/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SVVHasini/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SVVHasini/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVVHasini/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SVVHasini/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SVVHasini/Leetcode/tree/master/0067-add-binary) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SVVHasini/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/SVVHasini/Leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/SVVHasini/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SVVHasini/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SVVHasini/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SVVHasini/Leetcode/tree/master/0052-n-queens-ii) |
 ## Recursion
