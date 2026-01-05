@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SVVHasini/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/SVVHasini/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SVVHasini/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SVVHasini/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
