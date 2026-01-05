@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/SVVHasini/Leetcode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/SVVHasini/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/SVVHasini/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SVVHasini/Leetcode/tree/master/0414-third-maximum-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SVVHasini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SVVHasini/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/SVVHasini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SVVHasini/Leetcode/tree/master/0338-counting-bits) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Sorting
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SVVHasini/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVVHasini/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SVVHasini/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SVVHasini/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/SVVHasini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVVHasini/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
