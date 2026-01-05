@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SVVHasini/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/SVVHasini/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SVVHasini/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/SVVHasini/Leetcode/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 ## String Matching
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SVVHasini/Leetcode/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
