@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SVVHasini/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/SVVHasini/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SVVHasini/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/SVVHasini/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SVVHasini/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/SVVHasini/Leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SVVHasini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SVVHasini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SVVHasini/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SVVHasini/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
