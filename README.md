@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SVVHasini/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SVVHasini/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/SVVHasini/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/SVVHasini/Leetcode/tree/master/0994-rotting-oranges) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SVVHasini/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SVVHasini/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/SVVHasini/Leetcode/tree/master/0994-rotting-oranges) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SVVHasini/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/SVVHasini/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SVVHasini/Leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
