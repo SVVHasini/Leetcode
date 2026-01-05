@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SVVHasini/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/SVVHasini/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/SVVHasini/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SVVHasini/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/SVVHasini/Leetcode/tree/master/0136-single-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SVVHasini/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SVVHasini/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SVVHasini/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/SVVHasini/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
