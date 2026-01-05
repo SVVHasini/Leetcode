@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVVHasini/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SVVHasini/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/SVVHasini/Leetcode/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/SVVHasini/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SVVHasini/Leetcode/tree/master/0137-single-number-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/SVVHasini/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SVVHasini/Leetcode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SVVHasini/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
