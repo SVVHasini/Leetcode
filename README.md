@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SVVHasini/Leetcode/tree/master/0155-min-stack) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Greedy
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SVVHasini/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/SVVHasini/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SVVHasini/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
