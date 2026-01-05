@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/SVVHasini/Leetcode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/SVVHasini/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/SVVHasini/Leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SVVHasini/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
