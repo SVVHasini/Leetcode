@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/SVVHasini/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SVVHasini/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SVVHasini/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SVVHasini/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SVVHasini/Leetcode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SVVHasini/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/SVVHasini/Leetcode/tree/master/0518-coin-change-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SVVHasini/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SVVHasini/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SVVHasini/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Recursion
 |  |
 | ------- |
