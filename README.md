@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/SVVHasini/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SVVHasini/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SVVHasini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/SVVHasini/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVVHasini/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SVVHasini/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/SVVHasini/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/SVVHasini/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/SVVHasini/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
