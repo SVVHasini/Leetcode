@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SVVHasini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/SVVHasini/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SVVHasini/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/SVVHasini/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SVVHasini/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/SVVHasini/Leetcode/tree/master/0319-bulb-switcher) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SVVHasini/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SVVHasini/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/SVVHasini/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SVVHasini/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SVVHasini/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SVVHasini/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SVVHasini/Leetcode/tree/master/0338-counting-bits) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/SVVHasini/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SVVHasini/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SVVHasini/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SVVHasini/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SVVHasini/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
