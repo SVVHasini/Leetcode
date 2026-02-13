@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SVVHasini/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/SVVHasini/Leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SVVHasini/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SVVHasini/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2490-circular-sentence](https://github.com/SVVHasini/Leetcode/tree/master/2490-circular-sentence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SVVHasini/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SVVHasini/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SVVHasini/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SVVHasini/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/SVVHasini/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SVVHasini/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
