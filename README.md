@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/SVVHasini/Leetcode/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SVVHasini/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SVVHasini/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SVVHasini/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/SVVHasini/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SVVHasini/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
