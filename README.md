@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SVVHasini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SVVHasini/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/SVVHasini/Leetcode/tree/master/2490-circular-sentence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SVVHasini/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3163-string-compression-iii](https://github.com/SVVHasini/Leetcode/tree/master/3163-string-compression-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SVVHasini/Leetcode/tree/master/0342-power-of-four) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/SVVHasini/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
 | ------- |
