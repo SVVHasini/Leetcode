@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/SVVHasini/Leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SVVHasini/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3376-minimum-time-to-break-locks-i](https://github.com/SVVHasini/Leetcode/tree/master/3376-minimum-time-to-break-locks-i) |
+| [3697-compute-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SVVHasini/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3697-compute-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SVVHasini/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
