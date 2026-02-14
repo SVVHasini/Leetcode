@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SVVHasini/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SVVHasini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Divide and Conquer
 |  |
 | ------- |
