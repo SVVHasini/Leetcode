@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SVVHasini/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/SVVHasini/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SVVHasini/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SVVHasini/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SVVHasini/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/SVVHasini/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Greedy
 |  |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SVVHasini/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/SVVHasini/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SVVHasini/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Number Theory
 |  |
 | ------- |
@@ -570,4 +573,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SVVHasini/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SVVHasini/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SVVHasini/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/SVVHasini/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
