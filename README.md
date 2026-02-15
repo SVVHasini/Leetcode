@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVVHasini/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/SVVHasini/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SVVHasini/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SVVHasini/Leetcode/tree/master/3516-find-closest-person) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/SVVHasini/Leetcode/tree/master/2490-circular-sentence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SVVHasini/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3163-string-compression-iii](https://github.com/SVVHasini/Leetcode/tree/master/3163-string-compression-iii) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVVHasini/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SVVHasini/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Trie
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVVHasini/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Divide and Conquer
 |  |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SVVHasini/Leetcode/tree/master/0062-unique-paths) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVVHasini/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVVHasini/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVVHasini/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SVVHasini/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bitmask
