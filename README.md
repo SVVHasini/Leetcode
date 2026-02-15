@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SVVHasini/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVVHasini/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/SVVHasini/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SVVHasini/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bitmask
 |  |
 | ------- |
