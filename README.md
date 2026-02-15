@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/SVVHasini/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SVVHasini/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/SVVHasini/Leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVVHasini/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/SVVHasini/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [3011-find-if-array-can-be-sorted](https://github.com/SVVHasini/Leetcode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3536-maximum-product-of-two-digits](https://github.com/SVVHasini/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
