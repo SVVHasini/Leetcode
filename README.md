@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/SVVHasini/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3099-harshad-number](https://github.com/SVVHasini/Leetcode/tree/master/3099-harshad-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SVVHasini/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SVVHasini/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SVVHasini/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
