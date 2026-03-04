@@ -1,23 +1,28 @@
 class Solution {
     public String licenseKeyFormatting(String s, int k) {
-        StringBuilder sb = new StringBuilder();
-        
+        StringBuilder cleaned = new StringBuilder();
+
         for (char c : s.toCharArray()) {
             if (c != '-') {
-                sb.append(Character.toUpperCase(c));
+                cleaned.append(Character.toUpperCase(c));
             }
         }
 
-        sb.reverse();
         StringBuilder result = new StringBuilder();
+        int firstGroup = cleaned.length() % k;
+        int i = 0;
 
-        for (int i = 0; i < sb.length(); i++) {
-            if (i > 0 && i % k == 0) {
-                result.append('-');
-            }
-            result.append(sb.charAt(i));
+        if (firstGroup > 0) {
+            result.append(cleaned.substring(0, firstGroup));
+            i = firstGroup;
         }
 
-        return result.reverse().toString();
+        while (i < cleaned.length()) {
+            if (result.length() > 0) result.append("-");
+            result.append(cleaned.substring(i, i + k));
+            i += k;
+        }
+
+        return result.toString();
     }
 }
