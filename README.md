@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/SVVHasini/Leetcode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SVVHasini/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0696-count-binary-substrings](https://github.com/SVVHasini/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/SVVHasini/Leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/SVVHasini/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/SVVHasini/Leetcode/tree/master/0796-rotate-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SVVHasini/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SVVHasini/Leetcode/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/SVVHasini/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/SVVHasini/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/SVVHasini/Leetcode/tree/master/1861-rotating-the-box) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVVHasini/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
