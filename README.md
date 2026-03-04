@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SVVHasini/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SVVHasini/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/SVVHasini/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/SVVHasini/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0860-lemonade-change](https://github.com/SVVHasini/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/SVVHasini/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SVVHasini/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
+| [0748-shortest-completing-word](https://github.com/SVVHasini/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0997-find-the-town-judge](https://github.com/SVVHasini/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SVVHasini/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SVVHasini/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/SVVHasini/Leetcode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/SVVHasini/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0748-shortest-completing-word](https://github.com/SVVHasini/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/SVVHasini/Leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SVVHasini/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
