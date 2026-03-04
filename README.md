@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/SVVHasini/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/SVVHasini/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SVVHasini/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/SVVHasini/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SVVHasini/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SVVHasini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SVVHasini/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SVVHasini/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/SVVHasini/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SVVHasini/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/SVVHasini/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/SVVHasini/Leetcode/tree/master/0500-keyboard-row) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SVVHasini/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SVVHasini/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SVVHasini/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SVVHasini/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SVVHasini/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/SVVHasini/Leetcode/tree/master/0867-transpose-matrix) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SVVHasini/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
